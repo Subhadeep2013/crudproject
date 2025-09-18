@@ -17,3 +17,9 @@ This is a full-stack Spring Boot CRUD project using:
 1. Clone the repo:
    ```bash
    git clone https://github.com/Subhadeep2013/crudproject.git
+
+2. Open in IntelliJ
+3. Run CrudprojectApplication
+4. Open 
+   ```bash
+   http://localhost:8081/swagger-ui/
