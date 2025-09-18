@@ -20,6 +20,5 @@ This is a full-stack Spring Boot CRUD project using:
 
 2. Open in IntelliJ
 3. Run CrudprojectApplication
-4. Open 
-   ```bash
-   http://localhost:8081/swagger-ui/
+4. Open `http://localhost:8081/swagger-ui/`  
+   
