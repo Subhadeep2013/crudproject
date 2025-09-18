@@ -11,7 +11,7 @@ This is a full-stack Spring Boot CRUD project using:
 1. Create, Read, Update, Delete Users  
 2. Supports both SQL Server & MongoDB  
 3. REST API tested via Postman  
-4, Swagger UI available at `/swagger-ui/`  
+4. Swagger UI available at `/swagger-ui/`  
 
 ## Run Instructions
 1. Clone the repo:
